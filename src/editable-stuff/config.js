@@ -74,24 +74,22 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Solidity"},
+    { name: "Contract Auditing"},
+    { name: "HTML/CSS"},
+    { name: "Node"},
+    { name: "React"},
+    { name: "Alchemy"},
+    { name: "Python"},
+    { name: "Github"},
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Problem Solving"},
+    { name: "Communication"},
+    { name: "Adaptability"},
+    { name: "Creativity"},
+    { name: "Optimistic"},
+    { name: "Goal-Oriented"},
   ],
 };
 
@@ -100,7 +98,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "Emal me at:",
+    "Currently accepting roles within Web3 Development fulfilling both Contract and Front-end needs. If you have an oppurtunity to share, have questions about myself, or simply want to say hi, please reach out to me via Email at:",
   email: "frankieiii15@comcast.net",
 };
 
@@ -109,13 +107,13 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Solidity Developer',// Here Add Company Name
+      companylogo: require("../editable-stuff/me.png"),// Add logo
+      date: 'June 2018 – Present',//Add dates
     },
     {
       role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
+      companylogo: require("../editable-stuff/me.png"),
       date: 'May 2017 – May 2018',
     },
   ]
