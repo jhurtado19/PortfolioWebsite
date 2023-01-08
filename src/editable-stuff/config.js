@@ -9,27 +9,15 @@ const mainBody = {
   firstName: "Frankie",
   middleName: "",
   lastName: "Leyva",
-  message: " Passionate about changing the world with technology. ",
+  message: "Creative Developer driving innovation through experimentalism.",
   icons: [
     {
       image: "fa-github",
       url: "https://github.com/MarineNewt",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/",
-    },
-    {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/",
-    },
-    {
       image: "fa-twitter",
-      url: "https://www.twitter.com/",
+      url: "https://www.twitter.com/Newt936",
     },
   ],
 };
@@ -40,7 +28,7 @@ const about = {
   imageLink: require("../editable-stuff/me.png"),
   imageSize: 375,
   message:
-    "Content here",
+    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect bringing flair to projects with immersive user experiences. I enjoy exploring the unknown, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
