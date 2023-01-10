@@ -16,7 +16,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
         <div className="col-5 d-none d-lg-block align-self-center">
           {showPic && (
             <div style={{position:'relative'}}><img style={{position:'absolute'}}
-              className="border border-secondary rounded-circle"
+              className="disloop border border-secondary rounded-circle"
               src={primarypic}
               alt="profilepicture"
               width={imgSize}
