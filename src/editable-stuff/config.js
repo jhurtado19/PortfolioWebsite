@@ -48,9 +48,58 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "MarineNewt",
-  reposLength: 4,
-  specificRepos: [],
+//  gitHubUsername: "MarineNewt",
+//  reposLength: 6,
+//  specificRepos: [],
+  list: [{
+    category: "App",
+    title: "Ship Wars",
+    url: "https://www.shipwars.net/",
+    repo: "https://github.com/MarineNewt/ShipGame",
+    notes: "Ship Wars",
+    thumbnail:require("../assets/img/shipwars.png"), 
+   },
+   {
+    category: "App",
+    title: "Twitter Automation",
+    url: "https://twitter.com/OceanOfTheDay",
+    repo: "https://github.com/MarineNewt/TwitterAutomation",
+    notes: "Twitter Automation",
+    thumbnail:require("../assets/img/twitterauto.jpg"), 
+   },
+   {
+    category: "App",
+    title: "On Chain Canvas",
+    url: "https://canvasonchain.com/",
+    repo: "https://github.com/MarineNewt",
+    notes: "On Chain Canvas",
+    thumbnail:require("../assets/img/canvasonchain.png"), 
+   },
+   {
+    category: "App",
+    title: "Project Landing Page",
+    url: "https://galaxyfighterkongz.netlify.app/",
+    repo: "https://github.com/MarineNewt/GalaxyFK-website",
+    notes: "Project Landing Page",
+    thumbnail:require("../assets/img/galalter.png"), 
+   },
+   {
+    category: "App",
+    title: "Portfolio Website",
+    url: "https://portfolio-newt.netlify.app/",
+    repo: "https://github.com/MarineNewt",
+    notes: "Portfolio Website",
+    thumbnail:require("../assets/img/portfoliometa.png"), 
+   },
+   {
+    category: "App",
+    title: "Love Token",
+    url: "https://opensea.io/collection/love-spreadlove",
+    repo: "https://github.com/MarineNewt",
+    notes: "Love Token",
+    thumbnail:require("../assets/img/Love.png"), 
+   },
+  ]
 };
 
 // Leadership SECTION
