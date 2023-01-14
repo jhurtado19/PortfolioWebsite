@@ -17,7 +17,7 @@ const ProjectCardAlt = ({ value, imgHeight }) => {
       <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
         <Card.Body>
           <Card.Title as="h5">{title } </Card.Title>
-          <img className="card-img-top" height={imgHeight} src={thumbnail} alt={title}></img>
+          <div height={imgHeight}><img className="card-img-top" height="auto" width='auto' src={thumbnail} alt={title}></img></div>
           <hr></hr>
           <Card.Text>{notes}</Card.Text>
           <CardButtons video_url={videoUrl} link={url} repo={repo} />

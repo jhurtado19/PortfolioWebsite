@@ -56,7 +56,7 @@ const repos = {
     title: "Ship Wars",
     url: "https://www.shipwars.net/",
     repo: "https://github.com/MarineNewt/ShipGame",
-    notes: "Ship Wars",
+    notes: "Ship Wars is a real time battle game on the polygon network using NFTs as game pieces with actions taken on chain. To begin users pick stats and mint a ship NFT altered based on their token's assigned stats. Then users can use their ship to 'fire' at others in an attempt to sink their ships thereby burning their opponet's NFT and claiming a matic reward for each opponet sunk. ",
     thumbnail:require("../assets/img/shipwars.png"), 
    },
    {
@@ -64,7 +64,7 @@ const repos = {
     title: "Twitter Automation",
     url: "https://twitter.com/OceanOfTheDay",
     repo: "https://github.com/MarineNewt/TwitterAutomation",
-    notes: "Twitter Automation",
+    notes: "Automated twitter bot posting randomized emoji art daily. My Twitter bot code can be modified to pull data from any available APIs to aggregate data and post real time updated statistics to twitter.",
     thumbnail:require("../assets/img/twitterauto.jpg"), 
    },
    {
@@ -72,15 +72,23 @@ const repos = {
     title: "On Chain Canvas",
     url: "https://canvasonchain.com/",
     repo: "https://github.com/MarineNewt",
-    notes: "On Chain Canvas",
+    notes: "On Chain Canvas is an dynamic & interactive on-chain NFT. The token featuring a SVG canvas can be altered by holders one pixel at a time, once every 600 blocks. The evolving piece shows the capabilities of NFTs to be developed by communities over time and are not limited to static instances of art.",
     thumbnail:require("../assets/img/canvasonchain.png"), 
+   },
+   {
+    category: "App",
+    title: "Love Token",
+    url: "https://opensea.io/collection/love-spreadlove",
+    repo: "https://github.com/MarineNewt",
+    notes: "Love token is a proliferative NFT breaking the standard means of NFT ownership and mobility. This token whenever transfered by any means will mint a new token to the wallet the token was tranferred from, thereby making anyone in possesion of Love Token a lifelong holder of the collection.",
+    thumbnail:require("../assets/img/Love.png"), 
    },
    {
     category: "App",
     title: "Project Landing Page",
     url: "https://galaxyfighterkongz.netlify.app/",
     repo: "https://github.com/MarineNewt/GalaxyFK-website",
-    notes: "Project Landing Page",
+    notes: "NFT Project landing page presenting the project along with its art, roadmap, and team.",
     thumbnail:require("../assets/img/galalter.png"), 
    },
    {
@@ -88,16 +96,8 @@ const repos = {
     title: "Portfolio Website",
     url: "https://portfolio-newt.netlify.app/",
     repo: "https://github.com/MarineNewt",
-    notes: "Portfolio Website",
+    notes: "This website you are viewing here! A online portfolio showcasing my capabilities and projects.",
     thumbnail:require("../assets/img/portfoliometa.png"), 
-   },
-   {
-    category: "App",
-    title: "Love Token",
-    url: "https://opensea.io/collection/love-spreadlove",
-    repo: "https://github.com/MarineNewt",
-    notes: "Love Token",
-    thumbnail:require("../assets/img/Love.png"), 
    },
   ]
 };
