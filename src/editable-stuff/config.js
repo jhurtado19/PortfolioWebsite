@@ -71,7 +71,7 @@ const repos = {
     category: "App",
     title: "On Chain Canvas",
     url: "https://canvasonchain.com/",
-    repo: "https://github.com/MarineNewt",
+    repo: "https://github.com/MarineNewt/CanvasNFT",
     notes: "On Chain Canvas is an dynamic & interactive on-chain NFT. The token featuring a SVG canvas can be altered by holders one pixel at a time, once every 600 blocks. The evolving piece shows the capabilities of NFTs to be developed by communities over time and are not limited to static instances of art.",
     thumbnail:require("../assets/img/canvasonchain.png"), 
    },
