@@ -156,7 +156,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "Currently accepting roles within Web3 Development fulfilling both Contract and Front-end needs. If you have an oppurtunity to share, have questions about myself, or simply want to say hi, please reach out to me via Email at:",
-  email: "frankieiii15@comcast.net",
+  email: "Newt@newt9.dev",
 };
 
 const experiences = {
