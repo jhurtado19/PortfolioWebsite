@@ -1,6 +1,6 @@
 ## Developer Portfolio Website Template
  <h3 align="center" >
-    Live portfolio viewable at <a href="https://portfolio-newt.netlify.app/">Portfolio-Newt</a>.
+    Live portfolio viewable at <a href="https://newt9.dev/">Newt9.dev</a>.
  </h3>
  
  ## Setup And Deployment 🔧
