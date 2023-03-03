@@ -94,7 +94,7 @@ const repos = {
    {
     category: "App",
     title: "Portfolio Website",
-    url: "https://portfolio-newt.netlify.app/",
+    url: "https://newt9.dev/",
     repo: "https://github.com/MarineNewt/PortfolioWebsite",
     notes: "This website you are viewing here! A online portfolio showcasing my capabilities and projects.",
     thumbnail:require("../assets/img/portfoliometa.png"), 
