@@ -61,6 +61,14 @@ const repos = {
    },
    {
     category: "App",
+    title: "Eden's Flowers",
+    url: "https://edensflowers.netlify.app/",
+    repo: "https://github.com/MarineNewt/EdenNFT",
+    notes: "Eden's Flowers is a dynamic NFT collection on Ethereum showcasing the Art within NFT smart contracts through displaying how the medium as a whole can be utilized. The collection built upon an already unique proliferative token has an image switching mechanism and a contract time limit, challenging the importantance of common project trends of rarity structures and perpetuity on the blockchian.",
+    thumbnail:require("../assets/img/edenspage.png"), 
+   },
+   {
+    category: "App",
     title: "Twitter Automation",
     url: "https://twitter.com/OceanOfTheDay",
     repo: "https://github.com/MarineNewt/TwitterAutomation",
@@ -74,14 +82,6 @@ const repos = {
     repo: "https://github.com/MarineNewt/CanvasNFT",
     notes: "On Chain Canvas is an dynamic & interactive on-chain NFT. The token featuring a SVG canvas can be altered by holders one pixel at a time, once every 600 blocks. The evolving piece shows the capabilities of NFTs to be developed by communities over time and are not limited to static instances of art.",
     thumbnail:require("../assets/img/canvasonchain.png"), 
-   },
-   {
-    category: "App",
-    title: "Love Token",
-    url: "https://opensea.io/collection/love-spreadlove",
-    repo: "https://github.com/MarineNewt",
-    notes: "Love token is a proliferative NFT breaking the standard means of NFT ownership and mobility. This token whenever transfered by any means will mint a new token to the wallet the token was tranferred from, thereby making anyone in possesion of Love Token a lifelong holder of the collection.",
-    thumbnail:require("../assets/img/Love.png"), 
    },
    {
     category: "App",
