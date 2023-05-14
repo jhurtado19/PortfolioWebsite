@@ -36,7 +36,7 @@ const about = {
   imageLink: require("../editable-stuff/profile2.png"),
   imageSize: 375,
   message:
-    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect bringing flair to projects with immersive user experiences. I enjoy exploring the unknown, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
+    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect bringing flair to projects with smooth user experiences. I enjoy exploring the unknown, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -52,6 +52,22 @@ const repos = {
 //  reposLength: 6,
 //  specificRepos: [],
   list: [{
+    category: "App",
+    title: "Seattle Adventures",
+    url: "https://initial-mern.vercel.app/",
+    repo: "https://github.com/MarineNewt",
+    notes: "Get ready to explore the beautiful city of Seattle with this quick adventure tracking website. Explore new experiences in the city, record progress on all of your adventures, and learn more about where and what you can do in Seattle.",
+    thumbnail:require("../assets/img/SeattleAdv.png"), 
+   },
+   {
+    category: "App",
+    title: "Restaurant Landing Page",
+    url: "https://udupbop.netlify.app/",
+    repo: "https://github.com/MarineNewt/Restaurant-LandingPage-UDB",
+    notes: "Landing page for Asian fusion restaurant Udupbop. Provides an easy to navigate menu and all nccesary business information presented in a modern aesthetic page directing attention towards the deliciously artistic cusine.",
+    thumbnail:require("../assets/img/reslandingpage.png"), 
+   },
+   {
     category: "App",
     title: "Ship Wars",
     url: "https://www.shipwars.net/",
@@ -131,12 +147,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Solidity"},
-    { name: "Contract Auditing"},
+    { name: "MERN Stack"},
+    { name: "Automation"},
     { name: "HTML/CSS"},
     { name: "Node"},
     { name: "React"},
     { name: "Alchemy"},
+    { name: "Solidity"},
+    { name: "Contract Auditing"},
     { name: "Python"},
     { name: "Github"},
   ],
@@ -155,7 +173,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "Currently accepting roles within Web3 Development fulfilling both Contract and Front-end needs. If you have an oppurtunity to share, have questions about myself, or simply want to say hi, please reach out to me via Email at:",
+    "Currently accepting roles within Web Development fulfilling both Front-end and Contract needs. If you have an oppurtunity to share, have questions about myself, or simply want to say hi, please reach out to me via Email at:",
   email: "Newt@newt9.dev",
 };
 
