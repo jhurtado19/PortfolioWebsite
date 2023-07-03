@@ -36,7 +36,7 @@ const about = {
   imageLink: require("../editable-stuff/profile2.png"),
   imageSize: 375,
   message:
-    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect bringing flair to projects with smooth user experiences. I enjoy exploring the unknown, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
+    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect advancing concepts into functional programs. I enjoy exploring the sciences, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -86,7 +86,7 @@ const repos = {
    {
     category: "App",
     title: "Twitter Automation",
-    url: "https://twitter.com/OceanOfTheDay",
+    url: "https://github.com/MarineNewt/TwitterAutomation",
     repo: "https://github.com/MarineNewt/TwitterAutomation",
     notes: "Automated twitter bot posting randomized emoji art daily. My Twitter bot code can be modified to pull data from any available APIs to aggregate data and post real time updated statistics to twitter.",
     thumbnail:require("../assets/img/twitterauto.jpg"), 

@@ -24,7 +24,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
             />
             <img style={{position:''}}
               className="border border-secondary rounded-circle"
-              src={link}
+              src={primarypic}
               alt="profilepicture"
               width={imgSize}
               height={imgSize}
