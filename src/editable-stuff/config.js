@@ -24,7 +24,7 @@ const mainBody = {
     {
       pre: "fa",
       image: "fa-envelope",
-      url: "mailto: frankieiii15@comcast.net",
+      url: "mailto: Newt@newt9.dev",
 
     },
   ],
