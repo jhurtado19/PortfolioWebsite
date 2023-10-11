@@ -18,8 +18,8 @@ const mainBody = {
     },
     {
       pre: "fab",
-      image: "fa-twitter",
-      url: "https://www.twitter.com/Newt936",
+      image: "fa-instagram",
+      url: "https://instagram.com/newt9.oceans",
     },
     {
       pre: "fa",
@@ -36,7 +36,7 @@ const about = {
   imageLink: require("../editable-stuff/profile2.png"),
   imageSize: 375,
   message:
-    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect advancing concepts into functional programs. I enjoy exploring the sciences, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
+    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect advancing concepts into functional programs. I have experience in developing a range of website front ends to fulfill various purposes and utilizing technologies such as AWS, Alchemy, and Vercel to produce smooth full stack applications that not only look visually aesthetic, but also operate smoothly as well. I enjoy exploring the sciences, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -61,11 +61,19 @@ const repos = {
    },
    {
     category: "App",
-    title: "Restaurant Landing Page",
-    url: "https://udupbop.netlify.app/",
-    repo: "https://github.com/MarineNewt/Restaurant-LandingPage-UDB",
-    notes: "Landing page for Asian fusion restaurant Udupbop. Provides an easy to navigate menu and all nccesary business information presented in a modern aesthetic page directing attention towards the deliciously artistic cusine.",
-    thumbnail:require("../assets/img/reslandingpage.png"), 
+    title: "Tattoo Business Website",
+    url: "https://lionel-ink.vercel.app/",
+    repo: "https://github.com/MarineNewt/",
+    notes: "Minimalistic business website showcasing a tattoo artist’s art and background in a dynamic visuals-focused UI. Allows for ease of appointment booking and quick presentation of past works.",
+    thumbnail:require("../assets/img/LionelInk-home.png"), 
+   },
+   {
+    category: "App",
+    title: "Oculoplastics Learning Center",
+    url: "https://oculoplasticslearningcenter.com/",
+    repo: "https://github.com/MarineNewt/Oculoplastics-Learning-Center",
+    notes: "Education focused website detailing various oculofacial conditions and their corresponding treatments with thorough overviews. Features information heavy pages explaining symptoms, causes, treatments, and more wrapped in an easy to navigate website.",
+    thumbnail:require("../assets/img/oculoplasticslc-home.png"), 
    },
    {
     category: "App",
@@ -101,20 +109,13 @@ const repos = {
    },
    {
     category: "App",
-    title: "Project Landing Page",
-    url: "https://galaxyfighterkongz.netlify.app/",
-    repo: "https://github.com/MarineNewt/GalaxyFK-website",
-    notes: "NFT Project landing page presenting the project along with its art, roadmap, and team.",
-    thumbnail:require("../assets/img/galalter.png"), 
+    title: "Restaurant Landing Page",
+    url: "https://udupbop.netlify.app/",
+    repo: "https://github.com/MarineNewt/Restaurant-LandingPage-UDB",
+    notes: "Landing page for Asian fusion restaurant Udupbop. Provides an easy to navigate menu and all nccesary business information presented in a modern aesthetic page directing attention towards the deliciously artistic cusine.",
+    thumbnail:require("../assets/img/reslandingpage.png"), 
    },
-   {
-    category: "App",
-    title: "Portfolio Website",
-    url: "https://newt9.dev/",
-    repo: "https://github.com/MarineNewt/PortfolioWebsite",
-    notes: "This website you are viewing here! A online portfolio showcasing my capabilities and projects.",
-    thumbnail:require("../assets/img/portfoliometa.png"), 
-   },
+
   ]
 };
 
@@ -148,7 +149,7 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "MERN Stack"},
-    { name: "Automation"},
+    { name: "Next JS"},
     { name: "HTML/CSS"},
     { name: "Node"},
     { name: "React"},
@@ -156,7 +157,9 @@ const skills = {
     { name: "Solidity"},
     { name: "Contract Auditing"},
     { name: "Python"},
+    { name: "Automation"},
     { name: "Github"},
+    { name: "Vercel"},
   ],
   softSkills: [
     { name: "Problem Solving"},
