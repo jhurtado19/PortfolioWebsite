@@ -36,7 +36,7 @@ const about = {
   imageLink: require("../editable-stuff/profile2.png"),
   imageSize: 375,
   message:
-    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect advancing concepts into functional programs. I have experience in developing a range of website front ends to fulfill various purposes and utilizing technologies such as AWS, Alchemy, and Vercel to produce smooth full stack applications that not only look visually aesthetic, but also operate smoothly as well. I enjoy exploring the sciences, giving life to unique concepts, and expanding my repertoire to overcome all challenges. ",
+    "My name is Frankie Leyva. I'm a 2022 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect advancing concepts into functional programs. I have experience in developing a range of website front ends to fulfill various purposes and utilizing technologies such as AWS, Alchemy, and Vercel to produce smooth full stack applications that not only look visually aesthetic, but also operate smoothly as well. I enjoy exploring the sciences, adventures to new places, and expanding my repertoire to overcome all challenges. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
