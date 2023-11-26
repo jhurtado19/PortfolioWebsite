@@ -78,7 +78,7 @@ const repos = {
    {
     category: "App",
     title: "Ship Wars",
-    url: "https://www.shipwars.net/",
+    url: "https://shipgame.netlify.app/",
     repo: "https://github.com/MarineNewt/ShipGame",
     notes: "Ship Wars is a real time battle game on the polygon network using NFTs as game pieces with actions taken on chain. To begin users pick stats and mint a ship NFT altered based on their token's assigned stats. Then users can use their ship to 'fire' at others in an attempt to sink their ships thereby burning their opponet's NFT and claiming a matic reward for each opponet sunk. ",
     thumbnail:require("../assets/img/shipwars.png"), 
