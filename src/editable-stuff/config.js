@@ -33,7 +33,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/profile2.png"),
-  imageSize: 400,
+  imageSize: 350,
   message:
     "My name is Jesse Hurtado. I'm a 2023 graduate with a degree in Biology from the University of California, Monterey Bay. I specialize in creative thinking as a solutions architect advancing concepts into functional programs. I have experience in developing a range of website front ends to fulfill various purposes and utilizing technologies such as AWS, Alchemy, and Vercel to produce smooth full stack applications that not only look visually aesthetic, but also operate smoothly as well. I enjoy exploring the sciences, adventures to new places, and expanding my repertoire to overcome all challenges. ",
   resume: require("../editable-stuff/resume.pdf"),
@@ -47,7 +47,6 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-//  gitHubUsername: "MarineNewt",
 //  reposLength: 6,
 //  specificRepos: [],
   list: [{
