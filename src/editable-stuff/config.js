@@ -78,7 +78,7 @@ const repos = {
     title: "Morris-Lecar Model Simulations ",
     url: "https://github.com/jhurtado19/ML-Simulations/blob/main/phase_portrait.m",
     repo: "https://github.com/jhurtado19/ML-Simulations",
-    notes: "A repository that contains a function based on Euler's Method that will simulate a the dynamics of a user specificed neuron at incrementally increasing applied currents, and will generate a plot with all of the simulated voltage traces, and will finally output a phase portait of all the simulated trials to visualize the dynamics of neurons at or near bifurcation points. ",
+    notes: "A repository that contains a function based on Euler's Method that will simulate the dynamics of a user specificed neuron at incrementally increasing applied currents, and will generate a plot with all of the simulated voltage traces, and will finally output a phase portait of all the simulated trials to visualize the dynamics of neurons at or near bifurcation points. ",
     thumbnail:require("../assets/img/MLHB.png"), 
    },
   ]
