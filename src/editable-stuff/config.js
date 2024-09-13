@@ -35,7 +35,7 @@ const about = {
   imageLink: require("../editable-stuff/profile2.png"),
   imageSize: 350,
   message:
-    "My name is Jesse Hurtado ",
+    "My name is Jesse",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
