@@ -16,11 +16,11 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/jhurtado19",
     },
-    {
-      pre: "fas",
-      image:  "fa-camera",
-      url: "https://jessehurtado.myportfolio.com/",
-    },
+    //{
+     // pre: "fas",
+     // image:  "fa-camera",
+    //  url: "https://jessehurtado.myportfolio.com/",
+    //},
     {
       pre: "fab",
       image: "fa-linkedin",
