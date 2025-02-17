@@ -33,7 +33,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
         </div>
         <div className={`col-lg-${showPic ? "7" : "12"}`}>
           <h2 className="display-4 mb-5 text-center">{heading}</h2>
-          <p className="lead text-center">  My name is test test test test Jesse Hurtado, and I study mathematics and data analytics. I graduated from the University of California, Los Angeles in 2023 with a Bachelor of Science degree in Neuroscience, and I am currently pursing a Masters Degree in Data Science at San Diego State University, where I am focused primarily on machine learning engineering, neural network applications and database managment system architecture. My undergraduate work centered around visualizing neural data and simulating neurons to better understand their dynamics, utilizing signal processing algorithms, smoothing algorithms, convolutions and principal component analysis to transform raw data into insights.</p>
+          <p className="lead text-center">  Presently, I study mathematics, signal processing and data analytics. I graduated from the University of California, Los Angeles in 2023 with a Bachelors of Science degree in Neuroscience, and I am currently pursing a Masters Degree in Data Science at San Diego State University, where I am focused primarily on machine learning engineering, regression analysis and time series forecasting. My undergraduate work centered around visualizing neural data and simulating neurons to better understand their dynamics, utilizing signal processing algorithms, spectral analysis and mathematical modelling to transform raw data into insights.</p>
           {resume && (
             <p className="lead text-center">
               <a
