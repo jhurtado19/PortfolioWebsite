@@ -51,6 +51,14 @@ const repos = {
 //  specificRepos: [],
   list: [{
     category: "App",
+    title: "Alvarado Creek: Live Water Quality Monitoring",
+    url:"https://wqdatalive.com/public/v3/1869?dashboardId=309",
+    repo:"https://github.com/WIRLab-SDSU/Alvarado-Creek-",
+    notes: "Live water quality monitoring at Alvarado Creek provides raw data to perform time series analysis, spectral analysis, and cross sectional studies to assess water quality controls.",
+    thumbnail:require("../assets/img/Figure_4.png"),
+    },
+    {
+    category: "App",
     title: "Spatial Rate Map",
     url: "https://github.com/jhurtado19/2DRateMaps/blob/main/2D_Map_Report%20(4).pdf",
     repo: "https://github.com/jhurtado19/2DRateMaps/blob/main/RateMaps2D.m",
