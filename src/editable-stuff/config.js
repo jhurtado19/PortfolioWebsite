@@ -149,7 +149,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "Please feel free to contact me at my email:",
-  email: "jhurtado19@g.ucla.edu",
+  email: "jhurtado5179@sdsu.edu",
 };
 
 const experiences = {
